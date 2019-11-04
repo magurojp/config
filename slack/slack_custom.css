@@ -72,3 +72,11 @@
    font-size: 3rem;
    margin-top: 3px !important;
 }
+
+.emoji-sizer {
+  font-size: 32px !important;
+  padding: 4px !important;
+}
+.emoji-sizer.emoji-only {
+  font-size: 64px !important;
+}
