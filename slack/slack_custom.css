@@ -17,8 +17,8 @@
 .rxn .emoji-sizer {
   background-color: transparent !important;
   border-radius: 7px;
-  width: 24px;
-  height: 24px;
+  width: 240px;
+  height: 240px;
   margin: 0 0 0 -2px !important;
   border: 1px solid transparent; /* looks silly but it makes the outline work */
 }
