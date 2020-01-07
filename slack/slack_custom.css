@@ -5,6 +5,7 @@
 }
 
 .c-emoji--inline {
-  height: auto !important;
+  width: 16px !important;
+  height: 16px !important;
 }
 
