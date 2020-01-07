@@ -4,3 +4,8 @@
   height: 32px;
 }
 
+.c-emoji--inline {
+    width: 16px; !important
+    height: 16px; !important
+}
+
